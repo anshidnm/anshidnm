@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=anshidnm)
 - 👋 Hi, I’m @anshidnm
 - 👀 I’m interested in python
 - 🌱 I’m currently learning django
