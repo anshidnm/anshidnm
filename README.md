@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=anshidnm)
+![](https://komarev.com/ghpvc/?username=anshidnm&color=red)
 - 👋 Hi, I’m @anshidnm
 - 👀 I’m interested in python
 - 🌱 I’m currently learning django
