@@ -31,6 +31,3 @@ You can click the Preview link to take a look at your changes.
 &nbsp;&nbsp;
 <code><img height="30" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/github/github-original.svg"></code>
 &nbsp;&nbsp;
-<code><img height="30" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/heroku/heroku-plain.svg"></code>
-&nbsp;&nbsp;
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></code>
